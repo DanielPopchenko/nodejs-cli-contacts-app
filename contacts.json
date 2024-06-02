@@ -1,0 +1,26 @@
+[
+	{
+		"id": "2d96a186-7a12-4f37-843f-fb83850cf1e7",
+		"name": "John Jr.",
+		"surname": "Smith",
+		"phone": "+3212232332"
+	},
+	{
+		"id": "eaceead9-24c2-43b0-a974-736263744339",
+		"name": "John Jr.",
+		"surname": "Johnson",
+		"phone": "+3212232332"
+	},
+	{
+		"id": "52400755-b3b7-455e-a6a2-917e715e5bc6",
+		"name": "Denis",
+		"surname": "Williams",
+		"phone": "+3212232332"
+	},
+	{
+		"id": "64b7816d-2d40-4a88-9b99-ff895267f972",
+		"name": "Anna",
+		"surname": "Brown",
+		"phone": "+3516242346"
+	}
+]

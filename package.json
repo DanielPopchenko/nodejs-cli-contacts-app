@@ -1,0 +1,19 @@
+{
+	"name": "homework-1-cli",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node app"
+	},
+	"keywords": [],
+	"author": "Daniil Popchenko <daniel.popchenko@icloud.com>",
+	"license": "ISC",
+	"dependencies": {
+		"commander": "^12.1.0"
+	},
+	"devDependencies": {
+		"uuid": "^9.0.1"
+	}
+}
